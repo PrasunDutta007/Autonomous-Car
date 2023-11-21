@@ -70,16 +70,4 @@
 ## Coding Module
 
 Check the `Mini Project (Autonomous Car).pdf` documentation to get started.
-
-
-
-  
-## 🚀 Project in Progress.......
-
-This Project requires further upgradation (in terms of components and code) to make it completely autonomous
-using OpenCV. 
-
-Our Final Model will look somewhat similar to this :point_down:
-
-<img src="Screenshots/prototype.gif" width="70%">
   
